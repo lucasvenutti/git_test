@@ -1,1 +1,1 @@
-¡Este es mi primer texto de prueva... Probando git sale bien?
+Este es mi primer texto de prueba... ¿Probando git sale bien?
